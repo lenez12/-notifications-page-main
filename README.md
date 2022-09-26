@@ -21,7 +21,7 @@ Users should be able to:
 ### Links
 
 - Source Code URL: [Source Github](https://github.com/lenez12/notifications-page-main.git)
-- Live Site URL: [Demo Live](https://lenez-notifications-section.netlify.app/)
+- Live Site URL: [Demo Live](https://lenez-notifications.netlify.app/)
 
 ## My process
 
