@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Source Code URL: [Source Github](https://github.com/lenez12/intro-section-with-dropdown-navigation-main.git)
-- Live Site URL: [Demo Live](https://lenez-intro-section.netlify.app/)
+- Source Code URL: [Source Github](https://github.com/lenez12/notifications-page-main.git)
+- Live Site URL: [Demo Live](https://lenez-notifications-section.netlify.app/)
 
 ## My process
 
