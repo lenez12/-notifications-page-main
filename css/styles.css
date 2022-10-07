@@ -30,6 +30,12 @@ a:visited {
 	text-decoration: none;
 }
 
+button {
+	border: none;
+	background: transparent;
+	cursor: pointer;
+}
+
 .flex {
 	display: flex;
 }
@@ -115,6 +121,11 @@ a:visited {
 	color: var(--red-color);
 	margin-left: 5px;
 	font-size: 10px;
+	display: none;
+}
+
+.red_badge.unread {
+	display: inline;
 }
 
 .notification_timestamp {
